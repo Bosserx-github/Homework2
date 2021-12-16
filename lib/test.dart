@@ -8,7 +8,6 @@ void main() {
   var guess;
   var count = 0 ;
   print(answer);
-  print(answer);
   print("╔═════════════════════════════════════════");
   print("║            GUESS THE NUMBER");
   print("╟─────────────────────────────────────────");
